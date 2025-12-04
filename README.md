@@ -82,3 +82,8 @@ Aqui, cada tratamento é pensado para respeitar a individualidade de cada pessoa
 ### 📌 Recuperar Senha
 
 <img width="1689" height="815" alt="Recuperar Senha" src="https://github.com/user-attachments/assets/fa5e37c8-7f73-4b6c-a236-85d3e40d23a7" />
+
+
+
+
+
