@@ -63,27 +63,16 @@ Aqui, cada tratamento é pensado para respeitar a individualidade de cada pessoa
 <img width="1900" height="935" alt="Página-Inicial" src="https://github.com/user-attachments/assets/f3b30e33-f893-47f0-a7c3-aab576cb84ec" />
 
 ### 📌 Serviços  
-
 <img width="1901" height="751" alt="Serviços" src="https://github.com/user-attachments/assets/690cc338-b533-46e4-8b09-58d233f8a89f" />
 
 ### 📌 Perguntas e Respostas 
-
 <img width="1433" height="632" alt="Peguntas e Respostas" src="https://github.com/user-attachments/assets/7cbd38b5-ce6d-4a64-829f-dab2a568790a" />
 
 ### 📌 Página de Login Usuário/Adm
-
 <img width="1908" height="944" alt="image" src="https://github.com/user-attachments/assets/7855a241-dffc-459f-bdf3-85c8bdc1c4f2" />
 
 ### 📌 Página de Cadastro   
-
 <img width="1456" height="891" alt="image" src="https://github.com/user-attachments/assets/32cfbab3-32af-49a2-933a-a52e1b49dce2" />
 
-
 ### 📌 Recuperar Senha
-
 <img width="1689" height="815" alt="Recuperar Senha" src="https://github.com/user-attachments/assets/fa5e37c8-7f73-4b6c-a236-85d3e40d23a7" />
-
-
-
-
-
